@@ -39,8 +39,3 @@ You can install them using pip:
 
 ```bash
 pip install numpy matplotlib
-
-License
-©️ 2024 Preksha Dadoo
-
-This repository is licensed under the MIT license. See LICENSE for details.
