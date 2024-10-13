@@ -24,4 +24,3 @@ topsis_score = distance_to_negative / (distance_to_ideal + distance_to_negative)
 
 rankings = np.argsort(topsis_score)[::-1] + 1
 
-topsis_score, rankings
