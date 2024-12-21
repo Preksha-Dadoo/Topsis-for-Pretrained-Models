@@ -28,6 +28,9 @@ The following parameters are used to evaluate the models:
 2. **TOPSIS Calculation**: Implement the TOPSIS method to rank models based on the defined parameters.
 3. **Visualization**: Use matplotlib to create visual representations of the models' performance based on their TOPSIS scores.
 
+   ![image](https://github.com/user-attachments/assets/347d2356-dcee-4833-81d6-1f9448da995d)
+
+
 ## Requirements
 
 To run the code, make sure you have the following libraries installed:
